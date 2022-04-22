@@ -1,3 +1,12 @@
 Блок изучения Спринг
 
-1. DI - dependency injection
+DI - dependency injection
+
+
+Maven
+Java EE Servlet API
+Hibernate
+PostgreSQL
+Travis CI
+Apache Tomcat
+Java Spring
