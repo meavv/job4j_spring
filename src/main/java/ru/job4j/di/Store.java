@@ -8,7 +8,7 @@ import java.util.List;
 @Component
 public class Store {
 
-    private List<String> data = new ArrayList<String>();
+    private List<String> data = new ArrayList<>();
 
     public void add(String value) {
         data.add(value);
